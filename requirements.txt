@@ -1,4 +1,4 @@
-langchain-openai
+langchain-google-genai
 langchain
 chromadb
 python-dotenv
@@ -6,3 +6,4 @@ tiktoken
 umap-learn
 sentence-transformers
 matplotlib
+langchain_community
